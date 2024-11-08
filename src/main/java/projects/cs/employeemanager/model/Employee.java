@@ -98,6 +98,7 @@ public class Employee implements Serializable {
                 ", jobTitle='" + jobTitle + '\'' +
                 ", phone='" + phone + '\'' +
                 ", imageUrl='" + imageUrl + '\'' +
+                ", employeeCode='" + employeeCode +'\'' +
                 '}';
     }
 }
